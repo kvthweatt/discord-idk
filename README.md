@@ -1,5 +1,5 @@
 # discord-idk
-Ideka implementation of the Discord API.
+Imperative Ideka implementation of the Discord API. OOP version coming soon. Expect breaking changes.
 
 See [the documentation](https://github.com/kvthweatt/discord-idk/blob/main/discord.idk.md) for more info.
 
